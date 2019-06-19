@@ -36,7 +36,7 @@ public class UserController {
     // when the required value is false, java throws a null exception, hence provide a default value for the parameter
     {
 
-        return "get user was called with page = " + page + "limit =" +limit + "sort=" + sort;
+        return "get user function was called with page = " + page + "limit =" +limit + "sort=" + sort;
     }
 
     @GetMapping(path = "/{userId}" , produces = {MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE})
