@@ -1,0 +1,11 @@
+/Users/vandana.sridhar/Desktop/micoservices/src/main/java/com/appsdeveloperblock/app/ws/MobileAppWsApplication.java
+/Users/vandana.sridhar/Desktop/micoservices/src/main/java/com/appsdeveloperblock/app/ws/exceptions/UserServiceException.java
+/Users/vandana.sridhar/Desktop/micoservices/src/main/java/com/appsdeveloperblock/app/ws/ui/controller/UserController.java
+/Users/vandana.sridhar/Desktop/micoservices/src/main/java/com/appsdeveloperblock/app/ws/ui/model/request/UserDetailsRequestModel.java
+/Users/vandana.sridhar/Desktop/micoservices/src/main/java/com/appsdeveloperblock/app/ws/ui/model/request/UpdateUserDetailsRequestModel.java
+/Users/vandana.sridhar/Desktop/micoservices/src/main/java/com/appsdeveloperblock/app/ws/shared/Utils.java
+/Users/vandana.sridhar/Desktop/micoservices/src/main/java/com/appsdeveloperblock/app/ws/userservice/UserService.java
+/Users/vandana.sridhar/Desktop/micoservices/src/main/java/com/appsdeveloperblock/app/ws/ui/model/response/ErrorMessage.java
+/Users/vandana.sridhar/Desktop/micoservices/src/main/java/com/appsdeveloperblock/app/ws/ui/model/response/UserRest.java
+/Users/vandana.sridhar/Desktop/micoservices/src/main/java/com/appsdeveloperblock/app/ws/exceptions/AppExceptionHandler.java
+/Users/vandana.sridhar/Desktop/micoservices/src/main/java/com/appsdeveloperblock/app/ws/userservice/implementation/UserServiceImpl.java

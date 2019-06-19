@@ -1,0 +1,11 @@
+com/appsdeveloperblock/app/ws/ui/model/request/UserDetailsRequestModel.class
+com/appsdeveloperblock/app/ws/ui/model/request/UpdateUserDetailsRequestModel.class
+com/appsdeveloperblock/app/ws/ui/model/response/ErrorMessage.class
+com/appsdeveloperblock/app/ws/userservice/UserService.class
+com/appsdeveloperblock/app/ws/MobileAppWsApplication.class
+com/appsdeveloperblock/app/ws/exceptions/AppExceptionHandler.class
+com/appsdeveloperblock/app/ws/exceptions/UserServiceException.class
+com/appsdeveloperblock/app/ws/ui/controller/UserController.class
+com/appsdeveloperblock/app/ws/shared/Utils.class
+com/appsdeveloperblock/app/ws/ui/model/response/UserRest.class
+com/appsdeveloperblock/app/ws/userservice/implementation/UserServiceImpl.class
